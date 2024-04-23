@@ -129,3 +129,56 @@ $$
 ### (c)
 
 At temperature below $31800 \space\text{K}$, the peak wavelength of SED does not have energy, but a significant portion of SED is still below the required wavelength to ionize hydrogen. We should also consider the total **number** of photons with enough energy compared to hydrogen.
+
+---
+
+## Problem 5
+
+### (a)
+
+The first half of the video explaining how they improve uncertainties and build the cosmic ladder is easy to understand.
+
+### (b)
+
+I have no idea what he was talking about at the "tip of red giant branch" part and $\sigma_8$.
+
+I also don't quite understand how it is possible achieve sub-pixel precision from the quantized and pixelated HST photos.
+
+### (c)
+
+Causes for systematic uncertainties:
+
+- Dust
+  - Countered by making observations in near-infrared.
+- Limited resolution of HST for parallax
+  - Countered by "physically scanning" the telescope, giving us thousands of samples per frame to improve SNR.
+- Instrument, filters, metallicity, and period range of Cepheids
+  - Countered by using the same instrument and filters, and observe Cepheids of similar metallicity and period range. They also measure the differential flux against anchors such as the milky way.
+- How we calibrate Cepheids' luminosity
+  - Countered by independent research groups using different methods
+- Assumptions or details during analysis
+  - Countered by using different analysis variations (see 27:25)
+
+---
+
+## Problem 6
+
+### (a)
+
+Primordial B-mode polarization
+
+### (b)
+
+Galactic dust
+
+### (c)
+
+Some of the observations nowadays are really difficult to make and analyze. In this case, it took almost 1 year after the initial report to confirm that the result isn't conclusive. It must have been a huge disappointment for the research team.
+
+---
+
+## Problem 7
+
+I find it really interesting to know the "chores" astronomers needed to do before many of those tasks are automated by computers. It reminds me that making observations are not just pointing cameras at the sky and pressing the shutter button.
+
+---
